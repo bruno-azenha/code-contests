@@ -1,6 +1,6 @@
 # FairRations
 
-**TODO: Add description**
+https://www.hackerrank.com/contests/movile/challenges/fair-rations
 
 ## Installation
 
@@ -18,4 +18,3 @@ end
 Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
 and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
 be found at [https://hexdocs.pm/fair_rations](https://hexdocs.pm/fair_rations).
-

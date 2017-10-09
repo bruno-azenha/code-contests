@@ -1,6 +1,6 @@
 # TaumBirthday
 
-**TODO: Add description**
+https://www.hackerrank.com/contests/movile/challenges/taum-and-bday
 
 ## Installation
 
@@ -18,4 +18,3 @@ end
 Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
 and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
 be found at [https://hexdocs.pm/taum_birthday](https://hexdocs.pm/taum_birthday).
-
